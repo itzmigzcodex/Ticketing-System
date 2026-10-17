@@ -1,0 +1,20 @@
+.title {
+    display: grid;
+    place-items: center;
+}
+
+#welcome-message {
+    font-size: 1.5rem;
+    color: #333;
+}
+
+.ticket-sys {
+    width: 450px;
+    height: 300px;
+    margin: 50px auto;
+}
+
+#ticket-desc {
+    margin-top: 10px;
+    padding: 250px;
+}
